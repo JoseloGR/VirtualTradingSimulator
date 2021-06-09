@@ -11,6 +11,9 @@ uvicorn = {extras = ["standard"],version = "*"}
 requests = "*"
 aiohttp = "*"
 aiodns = "*"
+motor = "*"
+python-dotenv = "*"
+dnspython = "*"
 
 [requires]
 python_version = "3.7"
